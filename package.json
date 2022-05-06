@@ -1,0 +1,15 @@
+{
+  "name": "live_btc_price_stream",
+  "version": "1.0.0",
+  "description": "Connects to a live stream of Bitcoin price",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.5.3"
+  }
+}
